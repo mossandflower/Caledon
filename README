@@ -1,0 +1,43 @@
+echo "# Caledon" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mossandflower/Caledon.git
+git push -u origin main 
+{
+  "title": "Caledon",
+  "description": "Caledon is a fictional world set in ajacent to the Edwardian era filled with magic, adventure, and danger. It is a land of ancient ruins, majestic cities, and dark forests where the forces of good and evil clash in an epic struggle for dominance.",
+  "features": [
+    {
+      "title": "Unique Races",
+      "description": "Caledon is home to a variety of unique and interesting races, including the proud and noble elves, the cunning and mischievous halflings, and the towering and fearsome minotaurs.",
+      "image": "https://example.com/unique-races.jpg"
+    },
+    {
+      "title": "Magic System",
+      "description": "Magic is an integral part of life in Caledon, and the world is filled with powerful wizards, sorcerers, and other arcane practitioners. The magic system in Caledon is based on a unique combination of spellcasting and magical artifacts, and it allows for a wide variety of creative and interesting character builds.",
+      "image": "https://example.com/magic-system.jpg"
+    },
+    {
+      "title": "Adventure Hooks",
+      "description": "Caledon is a world ripe for adventure, and there are countless quests, missions, and challenges waiting for brave adventurers to take them on. Whether you're exploring ancient ruins, battling fearsome monsters, or delving into the depths of the underworld, there's always something exciting to do in Caledon.",
+      "image": "https://example.com/adventure-hooks.jpg"
+    }
+  ],
+  "installation": [
+    {
+      "title": "Requirements",
+      "description": "In order to use Caledon, you will need a copy of the Dungeons & Dragons 5th Edition Player's Handbook, as well as a set of dice (or a dice rolling app)."
+    },
+    {
+      "title": "Installation",
+      "description": "To use Caledon in your D&D game, simply add the world to your campaign setting and create characters using the races, classes, and other features available in the world. You can also use the adventure hooks provided to create exciting and engaging quests for your players to undertake."
+    }
+  ],
+  "credits": [
+    {
+      "name": "mossandflower",
+      "contribution": "Creator of Caledon"
+   
+ 
