@@ -7,23 +7,22 @@ git remote add origin https://github.com/mossandflower/Caledon.git
 git push -u origin main 
 {
   "title": "Caledon",
-  "description": "Caledon is a fictional world set in ajacent to the Edwardian era filled with magic, adventure, and danger. It is a land of ancient ruins, majestic cities, and dark forests where the forces of good and evil clash in an epic struggle for dominance.",
-  "features": [
-    {
-      "title": "Unique Races",
-      "description": "Caledon is home to a variety of unique and interesting races, including the proud and noble elves, the cunning and mischievous halflings, and the towering and fearsome minotaurs.",
-      "image": "https://example.com/unique-races.jpg"
-    },
+  "description": "Dark, smokey, and full of mystery, the dimly lit streets of Merrick swirl with fog as a woman's scream rings through the night. Nothing stirs, but boots echo along the cobblestones to the source of the noise. A whistle blows...
+Set in the Edwardian era, or adjacent to it, Caledon is an industrial and turbulent world. Bards play in taverns as steam trains go by overhead. Humans rub shoulders with satyrs, dwarfs, and tieflings.
+The Edwardian era was known for its opulence, refinement, and attention to detail. Caledon is a dark and mysterious place, shrouded in magic and steeped in tradition. In Caledon, magic is an integral part of everyday life. The powerful and wealthy wield it as a tool for control, while the lower classes use it for survival.
+
+
+The capital city, Merrik, is a sprawling metropolis of towering spires, grand architecture, and labyrinthine streets. Merrik is the centre of power in Caledon, home to the ruling aristocracy and the headquarters of the powerful Librarians.
+In Caledon, magic is controlled by the Librarians, a powerful organization that trains and regulates the use of magic. The Librarians are a formidable force, exerting influence over the entire world and enforcing strict laws to prevent the abuse of magic.
+However, there is a growing undercurrent of dissent among the lower classes. Many feel oppressed by the Librarian’s control and resent their monopoly on magic. There are whispers of a secret society of rogue magicians who are plotting to overthrow the Library and bring balance to the world.
+Despite its darkness, Caledon is a world of incredible beauty. From the rolling hills of the countryside to the glittering waters of the coastal cities, there is a sense of magic and wonder to be found everywhere. And yet, beneath the surface, there is danger lurking, as dark forces seek to exploit the power of magic for their own gain.
+": [
     {
       "title": "Magic System",
-      "description": "Magic is an integral part of life in Caledon, and the world is filled with powerful wizards, sorcerers, and other arcane practitioners. The magic system in Caledon is based on a unique combination of spellcasting and magical artifacts, and it allows for a wide variety of creative and interesting character builds.",
-      "image": "https://example.com/magic-system.jpg"
+      "description": "Magic is colloquially called sparks, and mages are known as wielders. Major magical capabilities are limited by their location. Most Wielder schools and places of study are dictated by the availability of magic to them. Conversely, you will usually not find Wielders far from ley lines. The further away from major points of ley line intersection, the more difficult magic is to control and generate.
+"
     },
-    {
-      "title": "Adventure Hooks",
-      "description": "Caledon is a world ripe for adventure, and there are countless quests, missions, and challenges waiting for brave adventurers to take them on. Whether you're exploring ancient ruins, battling fearsome monsters, or delving into the depths of the underworld, there's always something exciting to do in Caledon.",
-      "image": "https://example.com/adventure-hooks.jpg"
-    }
+    
   ],
   "installation": [
     {
